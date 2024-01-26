@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DEX-Arbitrage**
 
-- 🌱 I’m currently learning **MERN + Java**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Stock-Portfolio Management Tools**
 
