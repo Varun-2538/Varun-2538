@@ -1,7 +1,7 @@
 <p align="center">
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Welcome+to+s1834's+GitHub+Profile" alt="Typing SVG" /></a></p>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Hi+👋+,+I'm+Varun+Singh" alt="Typing SVG" /></a></p>
 <p align="center">
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=Competitive+Programmer;Web3+Enthusiast" alt="Typing SVG" /></a></p>
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F73F&center=true&width=435&lines=A passionate fullstack developer exploring Blockchain." alt="Typing SVG" /></a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="s1834">
@@ -10,8 +10,8 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="s1834" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi 👋, I'm Varun Singh</h1>
-<h3 align="center">A passionate fullstack developer exploring Blockchain.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Varun Singh</h1>
+<h3 align="center">A passionate fullstack developer exploring Blockchain.</h3> -->
 
 - 🔭 I’m currently working on **DEX-Arbitrage**
 
