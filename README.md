@@ -6,9 +6,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="s1834">
  </p>
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="s1834" height="200"/>
-</p>
+</p> -->
 <hr>
 <!-- <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 <h3 align="center">A passionate fullstack developer exploring Blockchain.</h3> -->
