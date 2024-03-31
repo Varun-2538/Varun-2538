@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Stock-Portfolio Management Tools**
 
-- 👨‍💻 All of my projects are available at [https://varun25-portfolio.netlify.app/](https://varun25-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-varun-2538s-projects.vercel.app/](https://portfolio-varun-2538s-projects.vercel.app/)
 
 - 💬 Ask me about **Python, React.js, Blockchain**
 
