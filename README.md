@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **varunsingh2538@gmail.com**
 
-- ⚡ Fun fact **I regularly write articles on https://medium.com/@942525**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
