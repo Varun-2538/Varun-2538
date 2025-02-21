@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Stock-Portfolio Management Tools**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-varun-2538s-projects.vercel.app/](https://portfolio-varun-2538s-projects.vercel.app/)
 
