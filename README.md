@@ -13,7 +13,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 <h3 align="center">A passionate fullstack developer exploring Blockchain.</h3> -->
 
-- 🔭 I’m currently working on **DEX-Arbitrage**
+- 🔭 I’m currently working on **AstroGPT**
 
 - 🌱 I’m currently learning **MERN**
 
