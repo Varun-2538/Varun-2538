@@ -13,8 +13,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Varun Singh</h1>
 <h3 align="center">A passionate fullstack developer exploring Blockchain.</h3> -->
 
-- 🔭 I’m currently working on **MEV**
-
 - 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
