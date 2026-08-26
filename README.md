@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-varun-2538s-projects.vercel.app/](https://portfolio-varun-2538s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-varun-2538s-projects.vercel.app/](singhvarun.in)
 
 - 💬 Ask me about **Python, React.js, Blockchain**
 
